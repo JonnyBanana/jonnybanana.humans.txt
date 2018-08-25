@@ -2,5 +2,5 @@
 
 My personal humans.txt for my websites
 
-![alt text](https://i.ytimg.com/vi/ksO1OEFFEbo/hqdefault.jpg)
+![alt text](https://raw.githubusercontent.com/JonnyBanana/jonnybanana.humans.txt/master/humans.jpg)
 

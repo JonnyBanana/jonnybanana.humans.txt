@@ -2,7 +2,6 @@
 
 My personal humans.txt for my websites
 
-
 /* TEAM */
 Your title: Nicolò Saporito, Sappoh Sama Workshop, WebChain Solutions
 Site:jonnybanana.github.io, www.webchain.info

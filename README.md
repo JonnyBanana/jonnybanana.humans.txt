@@ -1,2 +1,3 @@
-# Jonny-Banana-s-Humans.txt
+# JonnyBanana-humans.txt
+
 My personal humans.txt for my websites

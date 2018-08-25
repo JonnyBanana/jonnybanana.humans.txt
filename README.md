@@ -1,4 +1,4 @@
-# JonnyBanana-humans.txt
+# jonnybanana.humans.txt
 
 My personal humans.txt for my websites
 
